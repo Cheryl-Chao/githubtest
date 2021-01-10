@@ -1,6 +1,7 @@
 public class Dog {
 	private String name;
 	private int ID;
+	private int age;
 	private int height;
 	
 	public Dog(String name) {
