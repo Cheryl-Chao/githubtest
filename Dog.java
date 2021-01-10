@@ -1,8 +1,8 @@
 public class Dog {
 	private String name;
-	//123
-	//234
-	//345
+	private int ID;
+	private int weight;
+	
 	public Dog(String name) {
 		this.name = name;
 	}
